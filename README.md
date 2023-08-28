@@ -11,7 +11,6 @@ Check out the live demo of the project [here](https://clonetube13.netlify.app).
 
 - Browse and watch videos seamlessly.
 - Responsive design for various devices.
-- Search for videos using keywords.
 - User-friendly interface with Material-UI components.
 - Fetches video data using the YouTube API.
 
