@@ -22,7 +22,7 @@ Follow these steps to set up and run the project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/.git
+   [git clone https://github.com/Hegde2002/CloneTube.git]
    npm install
    npm start
 Technologies
